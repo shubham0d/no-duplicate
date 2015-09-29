@@ -14,12 +14,12 @@ https://github.com/shubham0d/no-duplicate
 
 ## Requirement
 
--md5deep is required for sub-directory scan feature.\n
--most system come with pre-installed md5deep.If it is not installed then \n
+*-md5deep is required for sub-directory scan feature.
+*-most system come with pre-installed md5deep.If it is not installed then 
 
--for debian system
+*-for debian system:-
 $apt-get install md5deep
--for rpm based
+*-for rpm based:-
 $yum install md5deep.
 
 ## Installation
