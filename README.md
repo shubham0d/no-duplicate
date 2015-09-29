@@ -23,7 +23,7 @@ $yum install md5deep.
 
 ## Installation
 
-to install Run
+to install Run:-
 $python duplicate.py
 
 Contact me @
